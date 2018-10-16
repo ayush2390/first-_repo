@@ -34,7 +34,7 @@ for(i=p;i<=q;i++)
         count=count+1;
     }
 }
-printf("%d\n",count);
+printf(" the overall cost of the movies is %d\n",count);
 getch();
 }
 
